@@ -1,0 +1,1 @@
+RIGHT CLICK + W/A/S/D - freecam the landscape

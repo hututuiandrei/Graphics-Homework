@@ -1,0 +1,2 @@
+SPACE - jump
+R - reset
